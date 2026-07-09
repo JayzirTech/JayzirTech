@@ -79,7 +79,7 @@ Cuando no estoy escribiendo código, me encontrarás:
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Languages:** Python (Current Focus).
+* **Languages:** Python, HTML & CSS, JavaScript, Database SQL (PostgreSQL)
 * **Core Interests:** Full Stack Development, Data Analysis & Cybersecurity.
 * **Soft Skills:** Team Collaboration, Complex Problem-solving, Agile Methodologies.
 
