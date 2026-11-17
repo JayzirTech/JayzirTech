@@ -1,10 +1,12 @@
-# Hello, World! I'm Jayzir Martinez 👋
-
 <p align="center">
-   <img width="1376" height="768" alt="github_header_banner" src="https://github.com/user-attachments/assets/54257441-0aed-4094-8dfd-af1d7730e791" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=50&lines=Jayzir+Martinez;Backend+%26+Data+Engineer" alt="Typing Terminal" />
+  </a>
 </p>
 
-<h3 align="center">Mechatronics Engineer | Backend & Data Engineer ⚙️📊</h3>
+<p align="center">
+  <img width="100%" alt="Jayzir Martinez - Header Banner" src="https://github.com/user-attachments/assets/54257441-0aed-4094-8dfd-af1d7730e791" />
+</p>
 
 <p align="center">
   <em>"Where others see chaos, I architect order; where there is noise, I uncover the signal."</em>
@@ -95,13 +97,13 @@
 
 * **B.S. in Mechatronics Engineering** | *Universidad de Barranquilla (IUB)* — Graduated
 * **Advanced Software & Data Engineering Track** | *Riwi* — In Progress
-* **Software Development & Database Technologies** | *SENA*
+* **Software Development & Database Technologies** | *SENA* — In Progress
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayzirTech&show_icons=true&theme=visual_studio_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Jayzir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayzirTech&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JayzirTech&show_icons=true&theme=visual_studio_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Jayzir's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayzirTech&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" />
 </p>
