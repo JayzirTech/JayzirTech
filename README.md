@@ -7,11 +7,11 @@
 <h3 align="center">Mechatronics Engineer | Backend & Data Engineer ⚙️📊</h3>
 
 <p align="center">
-  <em>Engineering resilient backend services, scalable data pipelines, and analytical data warehouses with systems-level precision.</em>
+  <em>"Where others see chaos, I architect order; where there is noise, I uncover the signal."</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayzir-martinez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jayzir-martinez/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jayzirslaider18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Location-Barranquilla%2C%20Colombia-008080?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
